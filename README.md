@@ -1,2 +1,2 @@
 # OSY
-jedno mi to je
+ok
