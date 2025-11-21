@@ -19,4 +19,4 @@ oddelenie jadra a aplikácií,
 ochranu pamäte a izoláciu procesov.
 
 
-MS-DOS toto nemá, preto je menej bezpečný
+MS-DOS toto nemá, preto je menej bezpečný.
