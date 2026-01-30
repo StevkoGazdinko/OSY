@@ -2,7 +2,13 @@
 
 ## 1. Informácie o PC
 
-(Tabuľka sa generuje automaticky zo skriptu)
+| Vlastnosť | Hodnota |
+|----------|---------|
+| Verzia Windows | Windows 11 |
+| Edícia (Home/Pro) | Pro |
+| Typ účtu | Microsoft účet |
+| Procesor | napr. Intel Core i5-8250U |
+
 
 ## 2. Výstupy príkazov
 
