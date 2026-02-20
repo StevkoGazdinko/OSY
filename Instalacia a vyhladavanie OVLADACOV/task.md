@@ -1,3 +1,5 @@
+# ULOHA 1
+
 | Kategoria | Názov zariadenia |
 |----------|----------|
 | Grafické adaptéry | AMD Radeon HD 7560D|
@@ -8,17 +10,14 @@
 
 # ULOHA 1 POKRACOVANIE
 
-## 1. Nazov PC: PC-312-01
+### Po spusteni dxdiagu sme videli:
+ 1. #### Nazov PC: PC-312-01. OS: Windows 10 Pro Education 64-bitova verzia
 
-## OS: Windows 10 Pro Education 64-bitova verzia
+ 2. #### Názov grafickej karty: AMD Radeon HD 7560D. Velkost pamate: 497 MB
 
-## 2. Názov grafickej karty: AMD Radeon HD 7560D
+ 3. #### Headphones (High definition audio device)
 
-## Velkost pamate: 497 MB
 
-## 3. Headphones (High definition audio device)
-
---------Nie niesu rovnake, viacej v devmgmt.msc----------
 
 
 # ULOHA 2 
@@ -30,13 +29,13 @@
 | Verzia | 15.201.1151.1008|
 | Digital podpis | Microsoft Windows Hardware Compatibility Publisher|
 
-## Prvy riadok: PCI\VEN_1002&DEV_9904&SUBSYS_99041849&REV_00
+### Prvy riadok:
 
 
-Nemam zvukovu kartu
+#### Nemam zvukovu kartu
 
 
-ID HARDVARE: PCI\VEN_1002&DEV_9904&SUBSYS_99041849&REV_00
+#### ID HARDVARE: PCI\VEN_1002&DEV_9904&SUBSYS_99041849&REV_00
 
 
 # ULOHA 3
@@ -50,25 +49,27 @@ ID HARDVARE: PCI\VEN_1002&DEV_9904&SUBSYS_99041849&REV_00
 | Datum vydania | 2015-07-15 |
 
 
-Nainstalovana verzia: Stara
+#### Nainstalovana verzia: Stara
 
-Najnovsia dostupna: adrenaline edition 26.1.1
+#### Najnovsia dostupna: adrenaline edition 26.1.1
 
-Aktualizacia potrebna: ano urcite 
+#### Aktualizacia potrebna: ano urcite 
 
 
 # ULOHA 4
 
-Kolko uloh: 3 ulohy
+#### Kolko uloh: 3 ulohy
 
-Posledna chyba: Warning
+#### Posledna chyba: Warning
 
-Kolko zdielani: 5 zdielani
+#### Kolko zdielani: 5 zdielani
 
-Kolko uctov: 6 uctov
+#### Kolko uctov: 6 uctov
 
 
-## Vidim rovnake zariadenia ako pri devmgmt.msc
+### Co Vidim:
 
-## Ku sprave diskov nemam pristup: neviem zistit kolko diskov mame
+#### Rovnake zariadenia ako pri devmgmt.msc
+
+#### Ku sprave diskov nemam pristup: neviem zistit kolko diskov mame
 ![alt text](image-3.png)
