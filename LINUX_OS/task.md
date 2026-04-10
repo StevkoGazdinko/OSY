@@ -127,6 +127,87 @@ Linux beží priamo na hardvéri počítača buď z USB alebo ako druhý operač
 
 ---
 
+## 4. Dual Boot
+
+### Charakteristika
+Dual Boot znamená, že na jednom počítači sú nainštalované dva operačné systémy (Windows a Linux) a pri štarte si vyberáš, ktorý spustiť.
+
+### Výhody
+- plný výkon hardvéru
+- plnohodnotný Linux systém
+- stabilné dlhodobé riešenie
+- vhodné pre každodenné používanie Linuxu
+
+### Nevýhody
+- riziko pri rozdeľovaní disku
+- nutnosť reštartu pri prepínaní OS
+- zložitejšia inštalácia
+
+### Počet krokov
+15–25
+
+### Postup inštalácie
+1. Zálohovať dáta
+2. Stiahnuť Linux ISO
+3. Vytvoriť boot USB (napr. Rufus)
+4. Spustiť inštaláciu Linuxu
+5. Vybrať “Install alongside Windows”
+6. Nastaviť partition diskov
+7. Nainštalovať GRUB bootloader
+8. Reštartovať a vybrať OS
+
+### Hardvérové požiadavky
+- RAM: min. 4–8 GB
+- Disk: min. 50 GB voľného miesta
+- CPU: 64-bit
+
+---
+
+## 5. Gitpod (cloud Linux)
+
+### Charakteristika
+Gitpod je cloudové vývojové prostredie, ktoré spúšťa Linux workspace priamo v prehliadači. Nepotrebuje inštaláciu Linuxu na PC.
+
+### Výhody
+- funguje v prehliadači
+- žiadna inštalácia
+- rýchly štart (sekundy)
+- ideálne pre programovanie
+- funguje aj na slabých PC
+
+### Nevýhody
+- potrebuje internet
+- obmedzenia výkonu (cloud zdroje)
+- závislé od služby
+
+### Počet krokov
+1–3
+
+### Postup používania
+1. Otvoriť Gitpod stránku
+2. Prihlásiť sa (GitHub/GitLab)
+3. Otvoriť projekt alebo repo
+4. Automaticky sa spustí Linux workspace
+
+### Hardvérové požiadavky
+- žiadne špeciálne požiadavky
+- iba internet a prehliadač
+
+---
+
+## Porovnanie
+
+| Kritérium            | WSL | VirtualBox | Boot USB | Dual Boot | Gitpod |
+|---------------------|-----|------------|----------|------------|--------|
+| Počet krokov        | nízky | stredný | stredný | vysoký | veľmi nízky |
+| Výkon               | vysoký | stredný | vysoký | najvyšší | závisí od cloudu |
+| Náročnosť           | nízka | stredná | stredná | vysoká | veľmi nízka |
+| GUI                 | obmedzené | plné | plné | plné | webové |
+| Internet potreba    | nie | nie | nie | nie | áno |
+
+---
+
+
 ## Záver
 
 ### Najlepšia voľba celkovo
